@@ -1,5 +1,7 @@
 # Telecom Customer Churn Analysis
 
+# Name: YUMVAGUSENGA Ange
+# Reg No: 224014529
 ## Overview
 This project is part of Computing Intelligence Lab 1. It analyzes telecom customer churn using Python in a Kaggle Notebook.
 
